@@ -22,7 +22,7 @@ window.addEventListener("load", () => {
       this.angle = 0;
       this.distance = 0;
       this.fricition = Math.random() * 0.6 + 0.15;
-      this.ease = Math.random() * 0.1 + 0.005;
+      this.ease = Math.random() * 0.1 + 0.01;
     }
     draw() {
       this.effect.context.fillStyle = this.color;
