@@ -52,7 +52,7 @@ window.addEventListener("load", () => {
       this.canvasHeight = canvasHeight;
       this.textX = this.canvasWidth / 2;
       this.textY = this.canvasHeight / 2;
-      this.fontSize = 150;
+      this.fontSize = 200;
       this.lineHeight = this.fontSize * 0.9;
       this.maxTextWidth = this.canvasWidth * 0.8;
 
