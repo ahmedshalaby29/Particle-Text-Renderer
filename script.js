@@ -58,7 +58,7 @@ window.addEventListener("load", () => {
 
       // particle text
       this.particles = [];
-      this.gap = 1;
+      this.gap = 2;
       this.mouse = {
         radius: 20000,
         x: 0,
