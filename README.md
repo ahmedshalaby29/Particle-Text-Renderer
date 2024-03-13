@@ -22,7 +22,7 @@ The Particle Text Renderer is a lightweight and customizable project that brings
 
 ## Features
 
-- **Particle Animation**: Create dynamic particle animations around your text.
+- **Particle Animation**: Create dynamic particle animations from your text.
 - **Customization**: Easily customize the appearance and behavior of the particles.
 - **Responsive Design**: The project is designed to work seamlessly on various screen sizes.
 
@@ -50,7 +50,7 @@ To run this project, you need a modern web browser that supports HTML5 features,
 
 ## Usage
 
-To use the Particle Text Renderer, simply open the `index.html` file in a web browser. Enter your desired text in the input field, and watch as the particles dynamically form and animate around the text.
+To use the Particle Text Renderer, simply open the `index.html` file in a web browser. Enter your desired text in the input field, and watch as the particles dynamically form and animate from the text.
 
 ## Customization
 
@@ -77,17 +77,8 @@ const textConfig = {
 
 Check out the live demo [here](https://particle-text-renderer.vercel.app/).
 
-## Contributing
-
-Contributions are welcome! Please follow our [contribution guidelines](CONTRIBUTING.md).
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to [OpenAI](https://www.openai.com/) for providing the GPT-3 model used for generating this README.
-- Inspiration: [Insert sources of inspiration or related projects]
 
 Feel free to explore, experiment, and enhance the Particle Text Renderer to create your own captivating text animations! If you have any questions or suggestions, please open an issue or submit a pull request. Happy coding!
