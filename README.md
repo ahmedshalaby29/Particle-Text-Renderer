@@ -52,27 +52,6 @@ To run this project, you need a modern web browser that supports HTML5 features,
 
 To use the Particle Text Renderer, simply open the `index.html` file in a web browser. Enter your desired text in the input field, and watch as the particles dynamically form and animate from the text.
 
-## Customization
-
-The project allows for easy customization of various parameters, including particle size, color, speed, and more. Refer to the `script.js` file for details on how to adjust these settings.
-
-```javascript
-// Customize particle settings
-const particleConfig = {
-  size: 2,           // Particle size
-  color: '#ff0000',  // Particle color (hex or CSS color name)
-  speed: 2,          // Particle speed
-  density: 100       // Particle density
-};
-
-// Customize text settings
-const textConfig = {
-  text: 'Hello!',    // Text to render
-  fontSize: 48,      // Font size
-  fontFamily: 'Arial'// Font family
-};
-```
-
 ## Demo
 
 Check out the live demo [here](https://particle-text-renderer.vercel.app/).
