@@ -10,7 +10,6 @@ Welcome to the Particle Text Renderer project! This project utilizes HTML, CSS, 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Customization](#customization)
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
