@@ -49,7 +49,7 @@ To run this project, you need a modern web browser that supports HTML5 features,
 
 ## Usage
 
-To use the Particle Text Renderer, simply open the `index.html` file in a web browser. Enter your desired text in the input field, and watch as the particles dynamically form and animate from the text.
+To use the Particle Text Renderer, simply open the `index.html` file in a web browser. Enter your desired text in the input field, and watch as the particles dynamically form and animate your text.
 
 ## Demo
 
